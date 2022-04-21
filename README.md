@@ -1,6 +1,13 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Space Shooter 
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um joguinho de space shooter super legal! 
+Projeto produzido para um bootcamp em parceria com a [Digital Innovation One](https://digitalinnovation.one).
+
+# Descrição do projeto
+Neste projeto, desenvolvemos um jogo space shooter utilizando HTML, CSS e Javascript.
+
+## Para rodar o projeto
+
+Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
 
 ### Os requisitos são:
 
